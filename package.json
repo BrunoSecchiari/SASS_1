@@ -1,0 +1,22 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "This is my very first SASS project.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoSecchiari/WelcomeToSASS.git"
+  },
+  "author": "Bruno Secchiari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoSecchiari/WelcomeToSASS/issues"
+  },
+  "homepage": "https://github.com/BrunoSecchiari/WelcomeToSASS#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
